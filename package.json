@@ -11,5 +11,8 @@
     "url": "git@github.com-personal:jeremymcjunkin/hapi-example.git"
   },
   "author": "Jeremy McJunkin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
 }
